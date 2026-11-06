@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://areque.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-areque.com.br-17283A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:lucasareque@gmail.com"><img src="https://img.shields.io/badge/E--mail-lucasareque%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/lucas-areque"><img src="https://img.shields.io/badge/LinkedIn-lucas--areque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
