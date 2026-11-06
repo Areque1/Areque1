@@ -74,16 +74,16 @@ Além de **Zephyr** e **Mantis** na gestão de testes e defeitos, e **Active Dir
 - Registrei e acompanhei mais de 250 defeitos no Mantis.
 - Escrevi testes de API em Python e pytest, separados em funcionais e não funcionais e organizados em 23 marcadores.
 - Liguei cada teste automatizado ao seu caso no Zephyr, com uma checagem que barra qualquer teste sem caso mapeado.
-- Escrevi testes unitários e de integração com Jest na API em NestJS e com Vitest e Testing Library no front-end em React.
+- Escrevi testes unitários e de integração com Jest na API e com Vitest e Testing Library no front-end.
 
 **Analista de Sistemas de TI** · TIC do Norte · *out 2025 até hoje*
 - Administro usuários, grupos e políticas de acesso no Active Directory.
 - Atendo chamados N1 e N2, presenciais e remotos, incluindo problemas de conectividade em redes TCP/IP.
 - Administro e monitoro os servidores Windows Server e os serviços internos da empresa.
-- Configuro regras de firewall, políticas de segurança de rede e os equipamentos Ubiquiti.
+- Configuro regras de firewall, políticas de segurança e equipamentos de rede.
 
 **Estagiário de TI** · Secretaria de Estado do Meio Ambiente (SEMA) · *jan 2025 a mai 2026*
-- Suporte N1 e N2, estações de trabalho, Active Directory, servidores Windows, rede e firewall.
+- Suporte N1 e N2, estações de trabalho, Active Directory, servidores, rede e equipamentos de segurança.
 
 **Estagiário administrativo** · Instituto de Proteção Ambiental do Amazonas (IPAAM) · *fev 2023 a dez 2024*
 - Inventário e controle patrimonial, e redação de memorandos, ofícios e processos.
